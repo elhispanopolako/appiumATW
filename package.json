@@ -1,0 +1,14 @@
+{
+  "name": "appiumatw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "twozniak",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^8.10.5"
+  }
+}
